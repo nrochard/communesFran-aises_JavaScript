@@ -6,7 +6,9 @@ Powered by Javascript
 
 I use this API : [Découpage administratif](https://api.gouv.fr/documentation/api-geo)
 
-![alt text](https://github.com/nrochard/communesFrancaises_JavaScript/blob/main/img/screen.png)
+<p align="center">
+  <img width="350" height="650" src="https://github.com/nrochard/communesFrancaises_JavaScript/blob/main/img/screen.png">
+</p>
 
 ## Installation
 
